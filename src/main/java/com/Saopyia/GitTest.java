@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("你好，hello git3!");
         System.out.println("你好，hello git4!");
         System.out.println("你好，hello git5!");
-        System.out.println("pull test");
+        System.out.println("pull test2");
     }
 }
